@@ -14,7 +14,7 @@ GUI:
 GUI.png
 
 Sample Raw Data Files:
-“DB1716.805”,  “DB1718.805”, “DB2557.805”, & “DB9223.805”  There are tab delimited text files 
+“DB1716.805”,  “DB1718.805”, “DB2557.805”, & “DB9223.805”  These are tab delimited text files 
 
 Sample Output:
 SampleOutput_BarcodeResults.png & SampleOutput_StasticalAnalysis.png
